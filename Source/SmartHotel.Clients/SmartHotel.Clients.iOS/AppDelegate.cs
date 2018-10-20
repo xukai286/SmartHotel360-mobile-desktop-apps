@@ -64,6 +64,7 @@ namespace SmartHotel.Clients.iOS
             UINavigationBar.Appearance.Translucent = true;
 
             // Initialize B2C client
+            // build trigger
             App.AuthenticationClient.PlatformParameters = new PlatformParameters(UIApplication.SharedApplication.KeyWindow.RootViewController);
 
             return true;
