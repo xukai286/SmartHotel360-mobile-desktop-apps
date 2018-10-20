@@ -9,9 +9,9 @@ namespace SmartHotel.Clients.Core
         //IF YOU DEPLOY YOUR OWN ENDPOINT REPLACE THE VALUEW BELOW
 
         //App Center
-        const string defaultAppCenterAndroid = "b3b1403c-3f9d-4c77-805e-9c002de6ddf7";
-        const string defaultAppCenteriOS = "7a2a290b-07b0-47dc-9dcd-15461e894e6d";
-        const string defaultAppCenterUWP = "140a8550-c309-4bc1-a05d-e5a0f7e4df1d";
+        const string defaultAppCenterAndroid = "2a36cb6d-0982-4540-8606-a77b41844754";
+        const string defaultAppCenteriOS = "4f7d4d40-bfd5-41c8-8eae-8801181d093f";
+        const string defaultAppCenterUWP = "77708570-e4b6-4144-8bab-3ef987b7501c";
 
         static string defaultBookingEndpoint;
         static string defaultHotelsEndpoint;
